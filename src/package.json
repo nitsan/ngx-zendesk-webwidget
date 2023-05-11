@@ -1,6 +1,6 @@
 {
-  "name": "ngx-zendesk-webwidget",
-  "version": "5.0.0",
+  "name": "@nitsanzo/ngx-zendesk-webwidget",
+  "version": "14.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/AlisonVilela/ngx-zendesk-webwidget.git"
