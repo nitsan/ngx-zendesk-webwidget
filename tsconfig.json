@@ -12,10 +12,6 @@
     "moduleResolution": "bundler",
     "outDir": "./build",
     "rootDir": "./src",
-    "lib": [
-      "es2015",
-      "dom"
-    ],
     "skipLibCheck": true,
     "types": []
   },
