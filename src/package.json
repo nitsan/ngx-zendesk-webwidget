@@ -1,6 +1,6 @@
 {
   "name": "@nitsanzo/ngx-zendesk-webwidget",
-  "version": "19.0.0",
+  "version": "20.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/nitsan/ngx-zendesk-webwidget.git"
@@ -17,7 +17,7 @@
     "url": "https://github.com/nitsan/ngx-zendesk-webwidget/issues"
   },
   "peerDependencies": {
-    "@angular/core": "^19.0.0"
+    "@angular/core": "^20.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
